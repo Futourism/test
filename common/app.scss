@@ -1,0 +1,8 @@
+@import "_variables";
+@import "_common";
+
+/* Materialize CSS */
+@import "../node_modules/materialize-css/sass/materialize";
+
+/* Pages */
+@import "../pages/home/_style";
