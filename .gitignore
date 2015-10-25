@@ -34,3 +34,4 @@ public
 
 # Database journal files
 data/journal
+data/mongod.lock
